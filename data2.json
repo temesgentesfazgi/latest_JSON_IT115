@@ -1,0 +1,11 @@
+{
+    "name": "nathan",
+    "age": 10,
+    "city": "Seattle",
+    "interests": [
+        "soccer",
+        "videogame",
+        "silly"
+    ],
+    "is_student": true
+}
